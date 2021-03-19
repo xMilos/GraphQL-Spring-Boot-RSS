@@ -1,0 +1,7 @@
+type Rss {
+    id: ID
+    title: String
+    description: String
+    publicationDate: Date
+    link: String
+}
